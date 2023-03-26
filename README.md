@@ -8,4 +8,3 @@ Cuvintele au fost scanate automat din mai multe carti, si din acest motiv exista
 In spate, proiectul are la baza Teoria lui Shannon despre Entropia Informationala. Cuvintele sunt ghicite in medie dupa 5 incercari.
 Interfata grafica a fost realizata utilizand TKinter.
 
-Contribuitori la proiect: @IulianMohonea .
