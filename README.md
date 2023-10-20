@@ -4,11 +4,20 @@
 
 The project is carried out within the Computer Systems Architecture course and is based on Claude Shannon's Information Theory. We recreated the famous Wordle game that became popular in 2021. What is special about our project is that by combining the 2 ideas, we recreated a Wordle that plays itself making the best word choices.
 
-![image1]()
+![image1](https://raw.githubusercontent.com/MituIustin/Wordle-Low-Budget/main/readmephotos/Capture1.PNG)
 
-## About GUI
 
-The graphic interface was made with the help of [TKinter](https://docs.python.org/3/library/tkinter.html).
+![image2](https://raw.githubusercontent.com/MituIustin/Wordle-Low-Budget/main/readmephotos/Capture2.PNG)
+
+
+
+## Containing:
+
+- GUI (made with the help of [TKinter](https://docs.python.org/3/library/tkinter.html).)
+- The concept of multithreading ( the graphic interface and the calculation function run at the same time on different threads )
+- Claude Shannon's Information Theory
+- Both Automated Version and Nonautomated Version
+- Error handling
 
 ## Some credits:
 
@@ -24,8 +33,8 @@ This project also contains the non-automated version. All you have to do to be a
 
 Some images from the non-automated version:
 
-![image2]()
-![image3]()
+![image3](https://raw.githubusercontent.com/MituIustin/Wordle-Low-Budget/main/readmephotos/Capture3.PNG)
+![image4](https://raw.githubusercontent.com/MituIustin/Wordle-Low-Budget/main/readmephotos/Capture4.PNG)
 
 ## Must know:
 
